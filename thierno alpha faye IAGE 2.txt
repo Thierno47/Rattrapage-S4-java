@@ -1,0 +1,73 @@
+import java.util.Scanner;
+
+public class Main {
+	
+	
+	public static void main(String[] args)
+	
+		Scanner sc=new scanner(System.in);
+		
+	
+		int Bourse = 60000;
+		int Montant
+		String Prenom= "";
+		String Nom="";
+		String Matricule="";
+		String dateNaissance="";
+		String BoursierMatricule="";
+		String nomBoursier="";
+		String prenomBoursier="";
+		String dateBoursier="";
+		String Adresse= "";
+		String typeBourse="";
+		boolean Loge=false
+	
+	System.out.println ("Entrer le montant de la bourse de l'étudiant");
+	int Bourse = scan.nextInt();
+	
+	System.out.println ("Entrer le nom de l'étudiant" );
+	String Prenom = scan.next();
+	
+	System.out.println ("Entrer le prénom de l'étudiant");
+	String Nom = scan.next();
+	
+	System.out.println ("Entrer le matricule de l'étudiant");
+	String Matricule = scan.next();
+	
+	System.out.println ("Entrer la date de naissance de l'étudiant");
+	String Matricule = scan.next();
+	
+	System.out.println ("Entrer le nom de l'étudiant" );
+	String Prenom = scan.next();
+	
+	System.out.println ("Entrer le matricule du boursier" );
+	String BoursierMatricule = scan.next();
+	
+	System.out.println ("Entrer le nom du boursier" );
+	String nomBoursier = scan.next();
+	
+	System.out.println ("Entrer le prénom de l'étudiant" );
+	String prenomBoursier = scan.next();
+	
+	System.out.println ("Entrer la date de naissance du boursier" );
+	String dateBoursier = scan.next();
+	
+	if (Bourse = 60000) {
+		System.out.print("l'étudiant est non boursier");
+		
+		do {System.out.println("Entrer l'adresse de l'étudiant");
+			String Adresse = scan.next();
+		}
+		
+	}
+			
+	if (bourse>60000) {	
+	System.out.print("L'étudiant est boursier");
+		do {System.out.print("Entrer le montant de la bourse");
+		int Montant = scan.nextInt();
+		String typeBourse  = scan.next()
+				do {System.out.Println("non logé")
+		}while(!Loge);
+	
+		
+}
